@@ -9,7 +9,7 @@ This repository contains mmy daily java practice Programs.
 -Loops
 -6 Mini Project
 
-#DAY 2
+##DAY 2
 -Loop Practice
 -Array Practice
 -Mini Project : Array Analyzer
