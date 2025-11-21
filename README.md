@@ -56,5 +56,5 @@ Salary Calculation using Overriding
     4.Menu in the Main.
 
 ## Day 7
--   
+-   Revision and submit all the code to the Git to get the verison of work controled
 
