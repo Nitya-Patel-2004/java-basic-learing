@@ -7,7 +7,7 @@ This repository contains mmy daily java practice Programs.
 -Operators
 -Input/Output
 -Conditional Statement (if-else/Switch)
--6 Mini Project
+-5 Mini Project
 
 ## DAY 2
 -Loop Practice
